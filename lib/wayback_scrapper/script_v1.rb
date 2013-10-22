@@ -72,23 +72,3 @@ new_hash.to_a.each do |internal_array|
 
   sleep 0.5
 end
-
-# open_black_list()
-# add_to_black_list(@black_list)
-
-
-
-#grab page
-#############
-# write_headlines(headlines)
-#############
-# p new_hash.to_a.first
-# p new_hash.to_a.first.last
-# p new_hash.to_a.last
-
-# p timestamp = new_hash.to_a.first.last.first[0]
-# p url = new_hash.to_a.last.last.first.last[:uri]
-
-
-
-# # p page
